@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9adbf812-aa6a-496a-a3ea-ec2cdfb00b2f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/staff/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/staff/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/DirectorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DirectorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/staff/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/staff/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DirectorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/DirectorTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,20 +55,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeveloperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="employee_lab" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DeveloperTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="DirectorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="employee_lab" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="DirectorTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirectorTest.changeNameCantBeNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="employee_lab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DirectorTest" />
+      <option name="METHOD_NAME" value="changeNameCantBeNull" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -93,10 +97,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.DirectorTest" />
+        <item itemvalue="JUnit.DirectorTest.changeNameCantBeNull" />
         <item itemvalue="JUnit.DirectorTest.raiseWorks" />
         <item itemvalue="JUnit.DirectorTest.hasName" />
         <item itemvalue="JUnit.All in employee_lab" />
-        <item itemvalue="JUnit.DeveloperTest" />
       </list>
     </recent_temporary>
   </component>
@@ -114,25 +118,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1238" height="180" key="GridCell.Tab.0.bottom" timestamp="1585581115718">
+    <state width="1238" height="180" key="GridCell.Tab.0.bottom" timestamp="1585581566051">
       <screen x="0" y="23" width="1280" height="728" />
     </state>
-    <state width="1238" height="180" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1585581115718" />
+    <state width="1238" height="180" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1585581566051" />
     <state width="1238" height="180" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1585578724412" />
-    <state width="1238" height="180" key="GridCell.Tab.0.center" timestamp="1585581115716">
+    <state width="1238" height="180" key="GridCell.Tab.0.center" timestamp="1585581566050">
       <screen x="0" y="23" width="1280" height="728" />
     </state>
-    <state width="1238" height="180" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1585581115716" />
+    <state width="1238" height="180" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1585581566050" />
     <state width="1238" height="180" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1585578724411" />
-    <state width="1238" height="180" key="GridCell.Tab.0.left" timestamp="1585581115716">
+    <state width="1238" height="180" key="GridCell.Tab.0.left" timestamp="1585581566049">
       <screen x="0" y="23" width="1280" height="728" />
     </state>
-    <state width="1238" height="180" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1585581115716" />
+    <state width="1238" height="180" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1585581566049" />
     <state width="1238" height="180" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1585578724410" />
-    <state width="1238" height="180" key="GridCell.Tab.0.right" timestamp="1585581115717">
+    <state width="1238" height="180" key="GridCell.Tab.0.right" timestamp="1585581566050">
       <screen x="0" y="23" width="1280" height="728" />
     </state>
-    <state width="1238" height="180" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1585581115717" />
+    <state width="1238" height="180" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1585581566050" />
     <state width="1238" height="180" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1585578724411" />
   </component>
 </project>
